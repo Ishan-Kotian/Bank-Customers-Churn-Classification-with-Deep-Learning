@@ -13,3 +13,5 @@
 https://www.mdpi.com/genes/genes-10-00553/article_deploy/html/images/genes-10-00553-g001.png
 
 # Results - 86% Accuracy achieved.
+
+## Kaggle notebook: https://www.kaggle.com/lykin22/bank-customer-s-churn-classification-ann-dl
