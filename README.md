@@ -10,7 +10,7 @@
 
 ## Building Artificial Neural Network (ANN)
 ### Artificial neural networks are one of the main tools used in machine learning. As the “neural” part of their name suggests, they are brain-inspired systems which are intended to replicate the way that we humans learn. Neural networks consist of input and output layers, as well as (in most cases) a hidden layer consisting of units that transform the input into something that the output layer can use. ANNs have three layers that are interconnected. The first layer consists of input neurons. Those neurons send data on to the second layer, which in turn sends the output neurons to the third layer. ANNs are considered non-linear statistical data modeling tools where the complex relationships between inputs and outputs are modeled or patterns are found.
-https://www.mdpi.com/genes/genes-10-00553/article_deploy/html/images/genes-10-00553-g001.png
+![genes-10-00553-g001.png](https://www.mdpi.com/genes/genes-10-00553/article_deploy/html/images/genes-10-00553-g001.png)
 
 # Results - 86% Accuracy achieved.
 
